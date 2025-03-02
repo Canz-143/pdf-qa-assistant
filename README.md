@@ -10,14 +10,13 @@ PDF Q&A Assistant is a web application that allows users to upload PDF documents
 - **AI-Powered Q&A**: Ask questions about your PDF, and receive intelligent answers.
 - **PDF Preview**: View the uploaded PDF within the application.
 - **Dark Mode Support**: Toggle between light and dark mode for better accessibility.
-- **Adjustable AI Model and Parameters**: Choose from different AI models and control response creativity.
 - **Export Conversations**: Save Q&A interactions for future reference.
 
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (PDF.js)
 - **Backend**: Python (Flask)
-- **AI Models**: LangChain with Ollama and FAISS vector search
+- **AI Models**: LangChain with Ollama, FAISS vector search, and deepseek 1.5b
 
 ### Libraries:
 
